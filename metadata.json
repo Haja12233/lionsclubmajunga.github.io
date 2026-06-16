@@ -1,0 +1,6 @@
+{
+  "name": "Lions Club Majunga",
+  "description": "Site vitrine moderne, professionnel, responsive et interactif pour le Lions Club Majunga (Madagascar). Découvrez nos actions sociales, le mot du président, devenez partenaire, faites un don ou postulez pour nous rejoindre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
